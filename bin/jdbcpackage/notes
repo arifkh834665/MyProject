@@ -1,0 +1,8 @@
+jdb is uses the jdbc driver to connect with data base
+5 steps we need to follow to connect with data base with java application 
+1)load driver 
+2)create connection using DriverManager
+3)Use connection to fire quesries {Statmenet fro static queries}(prepared stateement for dynamic queries)
+4)process the result(result set)
+5)close the connection
+
